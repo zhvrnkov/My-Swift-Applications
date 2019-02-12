@@ -1,5 +1,5 @@
 # SeeFood (Machine Learning)
 
-App which recognize Hot Dog. User take a photo of something and if that something is hot dog, then app will notice about it. 
+App which recognizes Hot Dog. User takes a photo of something and if it is hot dog the app will notice about it.
 
 Required Core ML Module (Inception v3): https://developer.apple.com/machine-learning/build-run-models/
